@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TH2_1</string>
+    <string name="title_practice">Thực hành 02</string>
+    <string name="hint_input_quantity">Nhập vào số lượng</string>
+    <string name="button_create">Tạo</string>
+    <string name="error_invalid_data">Dữ liệu bạn nhập không hợp lệ</string>
+</resources>
