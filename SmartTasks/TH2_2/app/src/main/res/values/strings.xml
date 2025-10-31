@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TH2_2 Email Validator</string>
+
+    <string name="title_practice">Thực hành 02</string>
+    <string name="hint_email">Email</string>
+    <string name="error_email_format">Email không đúng định dạng</string>
+    <string name="button_check">Kiểm tra</string>
+</resources>

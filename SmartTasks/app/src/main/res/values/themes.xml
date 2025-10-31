@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<<<<<<< HEAD
+    <style name="Theme.SmartTasks" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+    <style name="Theme.LibraryManagementSystem" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> 9f11f3fd95039a0f5b2e2f1cee9ed6fddae02ae0
+</resources>
